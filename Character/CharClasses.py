@@ -5,4 +5,12 @@ def chibby(storyCharacter):
     intelligence = int
     will = int
     spirit = int
-    
+
+def fundementals:
+    handtohand
+    grappling
+    blade
+    first aid
+    ranged
+    tactics
+
