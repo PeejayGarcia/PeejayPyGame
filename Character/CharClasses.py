@@ -1,5 +1,5 @@
 
-def chibby(storyCharacter):
+def storyCharacter():
     strength = int
     speed = int
     agility = int
@@ -7,6 +7,11 @@ def chibby(storyCharacter):
     intelligence = int
     will = int
     spirit = int
+
+def chibby():
+    fundementals
+    teamwork
+
 
 def fundementals:
     handtohand
@@ -30,3 +35,5 @@ def blade:
     hand-eye
     speed
     strength
+
+
